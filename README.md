@@ -25,6 +25,7 @@ const o7 = new Object.prototype.constructor;
 const o8 = new Object(Object.prototype);
 const o9 = new class {};
 const o10 = Object.prototype.valueOf();
+const o11 = Object.getPrototypeOf(Number.prototype);
 ```
 
 ## !()+[]
