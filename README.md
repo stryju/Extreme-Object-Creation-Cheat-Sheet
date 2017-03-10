@@ -4,7 +4,7 @@ Because you need to know!
 ## Basic
 
 ```js
-const o0 = {}
+const o0 = {};
 const o1 = new Object();
 const o2 = Object.create(null);
 ```
@@ -23,7 +23,7 @@ const o5 = JSON.parse('{}');
 const o6 = null;
 const o7 = new Object.prototype.constructor;
 const o8 = new Object(Object.prototype);
-const o9 = new class {}
+const o9 = new class {};
 ```
 
 ## !()+[]
