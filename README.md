@@ -1,5 +1,5 @@
-# Extreme-Object-Creation-Cheat-Sheet
-Extreme Object Creation Cheat Sheet
+# [Extreme] Object Creation Cheat Sheet
+Because you need to know!
 
 ## Basic
 
