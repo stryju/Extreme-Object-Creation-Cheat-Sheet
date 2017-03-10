@@ -23,6 +23,7 @@ const o5 = JSON.parse('{}');
 const o6 = null;
 const o7 = new Object.prototype.constructor;
 const o8 = new Object(Object.prototype);
+const o9 = new class {}
 ```
 
 ## !()+[]
