@@ -24,7 +24,7 @@ const o7 = JSON.parse('{}');
 const o8 = null;
 const o9 = new Object.prototype.constructor;
 const o10 = new Object(Object.prototype);
-const o11 = Object.prototype.valueOf(null)
+const o11 = Object.prototype.valueOf()
 ```
 
 ## !()+[]
